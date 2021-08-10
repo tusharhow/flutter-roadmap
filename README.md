@@ -16,13 +16,12 @@
 * https://en.wikipedia.org/wiki/Design_Patterns
 * https://www.youtube.com/watch?v=Wn-3UmXbEv8&list=PLR2qQy0Zxs_UysCZpV98LnZbloP10zxZe&ab_channel=Codepur
 
-#### Core Design Principles
-* https://en.wikipedia.org/wiki/KISS_principle
-* https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
-* https://en.wikipedia.org/wiki/SOLID
-* https://cleancoders.com
-* https://pub.dev/packages/provider
-* https://pub.dev/packages/get_it
+#### Designing Helpers
+* https://www.youtube.com/c/flutterbucket
+* https://www.w3schools.com/graphics/svg_path.asp
+* https://medium.com/flutter-community/paths-in-flutter-a-visual-guide-6c906464dcd0
+
+
 
 #### Networking
 * https://en.wikipedia.org/wiki/Representational_state_transfer
