@@ -1,4 +1,4 @@
-# Flutter Roadmap
+# Flutter Complete Roadmap
 
 ![roadmap](images/flutter_roadmap.png)
 
@@ -14,6 +14,7 @@
 
 #### Core Design Patterns
 * https://en.wikipedia.org/wiki/Design_Patterns
+* https://www.youtube.com/watch?v=Wn-3UmXbEv8&list=PLR2qQy0Zxs_UysCZpV98LnZbloP10zxZe&ab_channel=Codepur
 
 #### Core Design Principles
 * https://en.wikipedia.org/wiki/KISS_principle

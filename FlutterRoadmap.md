@@ -1,5 +1,4 @@
 # Highly Subjective Roadmap to Flutter Development
-by Oleksandr Leuschenko (@oleaxe)
 
 
 ## Basics
